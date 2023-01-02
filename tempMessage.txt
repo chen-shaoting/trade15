@@ -1,0 +1,12 @@
+2022-12-08T15:36:48.341337
+Type:Buy, Code:600339,Datetime:2022-12-08T15:00:00,Close:3.43
+Type:Buy, Code:24230.,Datetime:2022-12-08T15:00:00,Close:8.60
+Type:Buy, Code:300140,Datetime:2022-12-08T15:00:00,Close:7.64
+Type:Buy, Code:9280.0,Datetime:2022-12-08T15:00:00,Close:6.35
+Type:Buy, Code:600938,Datetime:2022-12-08T15:00:00,Close:16.20
+Type:Buy, Code:601600,Datetime:2022-12-08T15:00:00,Close:4.79
+Type:Buy, Code:601868,Datetime:2022-12-08T15:00:00,Close:2.48
+Type:Buy, Code:7770.0,Datetime:2022-12-08T15:00:00,Close:11.14
+Type:Buy, Code:159959,Datetime:2022-12-08T15:00:00,Close:1.29
+Type:Buy, Code:513590,Datetime:2022-12-08T15:00:00,Close:0.75
+Type:Sell, Code:27281.,Datetime:2022-12-08T15:00:00,Close:28.70['Reasons to sell:', ' close,28.7, fell too much after previous:29.81']
