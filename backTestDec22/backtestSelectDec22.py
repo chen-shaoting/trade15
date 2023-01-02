@@ -111,14 +111,22 @@ def backtest(code):
     if profitRatio != 1:
         pass
         print("'{}',".format(code))
-        # cerebro.plot(style='candle', volume=False)
+        cerebro.plot(style='candle', volume=False)
     return profitRatio
 
 
 if __name__ == "__main__":
     symbols_potential = [
-        # 'TSLA'
+        '00019',# 太古股份A
+        '00168',# 青岛啤酒
+        '00316',# 东方海外国际
+        '01088',# 中国神华
+        '01171',# 兖矿能源
+        '06680',# 金力永磁
+        '06869',# 长飞光纤光缆
+        '09987', # 百盛中国
     ]
+    # symbols_potential += ganggutong
     # symbols_potential+=bankuai
     # symbols_potential += us_stock_202212
     # symbols_potential += us_select
@@ -126,10 +134,10 @@ if __name__ == "__main__":
     # symbols_potential += zhongzitou
     # symbols_potential += laolongtou
     # symbols_potential += zhonggaigu
-    symbols_potential += BIAOPU500
+    # symbols_potential += BIAOPU500
     # symbols_potential += BIAOPU500_202212
     # symbols_potential += HUSHEN300
-    # symbols_potential += ganggutong
+
     symbols_position = [
 
     ]
